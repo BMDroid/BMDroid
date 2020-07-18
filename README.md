@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a PhD student of Computer Science at Singapore Management University. 
+
+My research interests include operation research, quantum computing, machine learning and programmable matter.
+
 <!--
 **BMDroid/BMDroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on developing algorithims to solve complex combinatorial problems using quantum annealer.
+- 📫 How to reach me: jybo.2020@phdcs.smu.edu.sg
