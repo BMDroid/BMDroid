@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Bo Jianyuan.
+### Hi there 👋 My name is Bo Jianyuan.
 
 I am a PhD student of Computer Science at Singapore Management University. 
 
