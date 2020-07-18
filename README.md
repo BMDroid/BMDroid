@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Bo Jianyuan.
+
 I am a PhD student of Computer Science at Singapore Management University. 
 
 My research interests include operation research, quantum computing, machine learning and programmable matter.
@@ -18,5 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on developing algorithims to solve complex combinatorial problems using quantum annealer.
+- 🔭 I’m currently working on developing algorithms to solve complex combinatorial problems using quantum annealer.
 - 📫 How to reach me: jybo.2020@phdcs.smu.edu.sg
